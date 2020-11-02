@@ -1,0 +1,5 @@
+S-->AB||SS||AC||BD||BA
+A-->a
+B-->b
+C-->SB
+D-->SA
